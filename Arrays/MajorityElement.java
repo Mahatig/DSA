@@ -1,3 +1,4 @@
+/*https://leetcode.com/problems/majority-element/*/
 public class MajorityElement
 {
     public static void main(String[] args)
